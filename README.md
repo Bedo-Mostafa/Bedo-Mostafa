@@ -17,10 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Junior .NET Back-End Developer with expertise in developing scalable, high-performance web applications.
+- Proficient in C#, ASP.NET Core, LINQ, Entity Framework (EF) Core, and SQL Server.
+- Experienced in building RESTful APIs and optimizing database queries.
+- Skilled in LINQ for data querying and EF Core for ORM-based database management.
+- Passionate about clean code practices, learning, and contributing to team-driven development in an agile environment.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
