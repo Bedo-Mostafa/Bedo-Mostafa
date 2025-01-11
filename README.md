@@ -46,6 +46,7 @@
    ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
    ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%230081CB.svg?style=for-the-badge&logo=dotnet&logoColor=white)
    ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%234078B6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+   ![LINQ](https://img.shields.io/badge/LINQ-%230073B6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
    ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 <br>
@@ -83,7 +84,7 @@
 
 <a href="https://github.com/Bedo-Mostafa/">
   <img src="https://github-readme-stats.vercel.app/api?username=Bedo-Mostafa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bedo-Mostafa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="415"  alt="Bedo-Mostafa"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bedo-Mostafa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Bedo-Mostafa"/>
 
 </a>
 </div>
