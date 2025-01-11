@@ -90,15 +90,17 @@
 <div align='left'>
 <ul style="list-style-type: none; display: flex; padding: 0; margin: 0;">
   <li style="margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/abdelrhmman-mostafa" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrhmman-mostafa" target="_blank">
       <img src="https://img.shields.io/badge/linkedin:  Abdelrhman Mostafa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    
+  <a href="https://www.facebook.com/profile.php?id=100073346393921&mibextid=ZbWKwL" target="_blank">
+      <img src="https://img.shields.io/badge/facebook:  Bedo Mostafa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="facebook" style="margin-right: 10px;"/>
     </a>
   </li>
 
   <li style="margin-right: 10px;">
-    <a href="https://www.facebook.com/profile.php?id=100073346393921&mibextid=ZbWKwL" target="_blank">
-      <img src="https://img.shields.io/badge/facebook:  Bedo Mostafa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="facebook"/>
-    </a>
+    
   </li>
 
   <li style="margin-right: 10px;">
