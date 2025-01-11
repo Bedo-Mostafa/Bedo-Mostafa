@@ -88,24 +88,24 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-<ul style="list-style-type: none; display: flex; padding: 0;">
-<li style="margin-right: 5px;">
-<a href="https://www.linkedin.com/in/abdelrhmman-mostafa" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Abdelrhman Mostafa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-</a>
-</li>
+<ul style="list-style-type: none; display: flex; padding: 0; margin: 0;">
+  <li style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/abdelrhmman-mostafa" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin:  Abdelrhman Mostafa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+    </a>
+  </li>
 
-<li style="margin-right: 5px;">
-<a href="https://www.facebook.com/profile.php?id=100073346393921&mibextid=ZbWKwL" target="_blank">
-<img src="https://img.shields.io/badge/facebook:  Bedo Mostafa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="facebook" style="margin-bottom: 5px;"/>
-</a>
-</li>
+  <li style="margin-right: 10px;">
+    <a href="https://www.facebook.com/profile.php?id=100073346393921&mibextid=ZbWKwL" target="_blank">
+      <img src="https://img.shields.io/badge/facebook:  Bedo Mostafa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="facebook" style="margin-bottom: 5px;"/>
+    </a>
+  </li>
 
-<li style="margin-right: 5px;">
-<a href="mailto:bedomostafa37@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  bedomostafa37@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
-</li>
+  <li style="margin-right: 10px;">
+    <a href="mailto:bedomostafa37@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail:  bedomostafa37@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    </a>
+  </li>
 </ul>
 </div>
 
