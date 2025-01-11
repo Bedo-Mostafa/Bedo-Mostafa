@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;Active+Learner.;"></a>
 </p>
 
-<br>
-
 ## **About me**
 
 <!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
@@ -19,9 +17,9 @@
 - Passionate about clean code practices, learning, and contributing to team-driven development in an agile environment.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1feT3GLQOb_T-Ehra3keGDBvsG8U0v4QQ/view?usp=sharing)
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -66,12 +64,8 @@
 </p>
 
 <br>
-<br>
 
 -----
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -86,42 +80,32 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
-<ul>
-
-<li>
-<a href="www.linkedin.com/in/abdelrhmman-mostafa" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Abdelrhman Mostafa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<ul style="list-style-type: none; display: flex; padding: 0;">
+<li style="margin-right: 5px;">
+<a href="https://www.linkedin.com/in/abdelrhmman-mostafa" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Abdelrhman Mostafa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br>
-
-<li>
+<li style="margin-right: 5px;">
 <a href="https://www.facebook.com/profile.php?id=100073346393921&mibextid=ZbWKwL" target="_blank">
-<img src="https://img.shields.io/badge/facebook:  Bedo Mostafa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/facebook:  Bedo Mostafa-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="facebook" style="margin-bottom: 5px;"/>
 </a>
 </li>
 
-<br>
-
-<li>
+<li style="margin-right: 5px;">
 <a href="mailto:bedomostafa37@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  bedomostafa37@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  bedomostafa37@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
 </li>
-	
 </ul>
 </div>
 
