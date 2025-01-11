@@ -4,12 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Computer+Science+Student,;Active+Learner.;"></a>
 </p>
 
-
 <br>
 
-
-
-	
 ## **About me**
 
 <!--<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>-->
@@ -34,16 +30,16 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![F#](https://img.shields.io/badge/F%23-%235B4638.svg?style=for-the-badge&logo=fsharp&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+   ![F#](https://img.shields.io/badge/F%23-%235B4638.svg?style=for-the-badge&logo=fsharp&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
 - **Back-End Development**:
 
-   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
    ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%230081CB.svg?style=for-the-badge&logoColor=white)
    ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%234078B6.svg?style=for-the-badge&logoColor=white)
    ![LINQ](https://img.shields.io/badge/LINQ-%230073B6.svg?style=for-the-badge&logoColor=white)
