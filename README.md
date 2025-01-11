@@ -47,6 +47,7 @@
    ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%230081CB.svg?style=for-the-badge&logo=dotnet&logoColor=white)
    ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-%234078B6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
    ![LINQ](https://img.shields.io/badge/LINQ-%230073B6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+   ![LINQ](https://img.shields.io/badge/LINQ-%230073B6.svg?style=for-the-badge&logoColor=white)
    ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 <br>
