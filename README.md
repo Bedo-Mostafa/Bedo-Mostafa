@@ -15,7 +15,7 @@
 - Experienced in building RESTful APIs and optimizing database queries.
 - Skilled in LINQ for data querying and EF Core for ORM-based database management.
 - Passionate about clean code practices, learning, and contributing to team-driven development in an agile environment.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1feT3GLQOb_T-Ehra3keGDBvsG8U0v4QQ/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1ny3fSqYUh8P24iPO6rlMIhAMrQKNEPkk/view?usp=sharing)
 
 <br>
 
